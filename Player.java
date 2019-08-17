@@ -3,7 +3,7 @@ public class Player extends CharacterTmp {
     Player() {
         name = "youtiao";
         hp = 20;
-        attack = 3;
+        attack = 5;
         speed = 3;
         isLive = true;
     }
