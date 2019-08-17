@@ -4,7 +4,7 @@ public class Player extends CharacterTmp {
         name = "youtiao";
         hp = 20;
         attack = 5;
-        speed = 3;
+        speed = 2;
         isLive = true;
     }
 
